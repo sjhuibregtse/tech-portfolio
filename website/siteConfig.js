@@ -13,8 +13,8 @@ const users = [];
 
 const siteConfig = {
     title: 'Sarah J. Huibregtse, PhD', // Title for your website.
-    tagline: 'On a mission to promote Computing Education & Research,\nHealth & Well Being, and Universal Learning Design.',
-    profilePhoto: 'img/profile.png',
+    tagline: 'On a mission to promote Computing Education & Research,',
+    tagline: 'Health & Well Being, and Universal Learning Design.',profilePhoto: 'img/profile.png',
     url: 'https://sjhuibregtse.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
