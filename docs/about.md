@@ -23,6 +23,7 @@ Grace Hopper Celebration Attendee
 
 ## Recognition
 
+- 2020 Team Rubicon Clay Hunt Fellowship Program (CHFP) Basecamp 4 Fellow
 - 2020 Teach Access Curriculum Writing Grant
 - 2020 Virtual Grace Hopper Celebration Faculty Scholar
 
